@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Amazon Clone
+
+Live Site Link - https://amazon-clone-new.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
